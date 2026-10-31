@@ -4,9 +4,9 @@
 
 Student Performance Analytics System
 
-**Student name:** Add your name  
+**Student name:** EGALA NAIDU  
 **Course:** Python with AI  
-**Date:** Add submission date
+**Date:** 31/10/2026
 
 ## 2\. Objective
 
