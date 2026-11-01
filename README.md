@@ -5,7 +5,7 @@ A beginner-friendly Python data-analysis project using Pandas and NumPy. It anal
 ## Features
 - Reads and validates student records from `students.csv`
 - Calculates total and average marks
-- Assigns grades using a clearly defined example grading scale
+- Assigns grades using a clearly defined example grading scale.
 -A student passes if their average mark across all four subjects is 50 or above. Otherwise, the student fails.
 - Calculates class and subject averages, highest/lowest averages, and pass percentage
 - Displays the top five students
