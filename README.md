@@ -31,7 +31,7 @@ python main.py
 
 ## Test
 ```bash
-python -m unittest discover -s tests -v
+python -m unittest -v test_main
 ```
 
 ## Dataset and rules
