@@ -37,7 +37,9 @@ python -m unittest discover -s tests -v
 ## Dataset and rules
 `students.csv` contains 20 fictional practice records. The example grade bands are A+ (90–100), A (80–89.99), B (70–79.99), C (60–69.99), D (50–59.99), and F (below 50).A student passes if their average mark across all four subjects is 50 or above. Otherwise, the student fails.
 ## Project documentation
-See `documentation/Project_Documentation.md`. Add your own details and screenshots before final submission.
+See Project_Documentation.md for complete project documentation.
 
 ## Author
-Replace this line with your name and course details.
+Name: Egala Naidu
+Course: B.Tech – Computer Science and Engineering (Artificial Intelligence)
+Project: Student Performance Analytics System
