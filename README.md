@@ -6,7 +6,7 @@ A beginner-friendly Python data-analysis project using Pandas and NumPy. It anal
 - Reads and validates student records from `students.csv`
 - Calculates total and average marks
 - Assigns grades using a clearly defined example grading scale
-- Marks a student as Pass when every subject mark is at least 40; otherwise Fail
+-A student passes if their average mark across all four subjects is 50 or above. Otherwise, the student fails.
 - Calculates class and subject averages, highest/lowest averages, and pass percentage
 - Displays the top five students
 - Saves detailed results to `student_analysis_results.csv`
@@ -35,8 +35,7 @@ python -m unittest discover -s tests -v
 ```
 
 ## Dataset and rules
-`students.csv` contains 20 fictional practice records. The example grade bands are A+ (90–100), A (80–89.99), B (70–79.99), C (60–69.99), D (50–59.99), and F (below 50). The pass rule is at least 40 in every subject. Replace these rules if your trainer specifies different ones.
-
+`students.csv` contains 20 fictional practice records. The example grade bands are A+ (90–100), A (80–89.99), B (70–79.99), C (60–69.99), D (50–59.99), and F (below 50).A student passes if their average mark across all four subjects is 50 or above. Otherwise, the student fails.
 ## Project documentation
 See `documentation/Project_Documentation.md`. Add your own details and screenshots before final submission.
 
